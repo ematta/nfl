@@ -1,0 +1,6 @@
+nfl_data_py
+pandas
+numpy
+pandas-stub
+seaborn
+matplotlib
