@@ -1,6 +1,6 @@
-nfl_data_py
+nfl_data_py==0.3.3
 pandas
 numpy
-pandas-stub
 seaborn
 matplotlib
+statsmodels
